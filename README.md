@@ -14,19 +14,13 @@ Please note that this document is a working paper. It is being shared publicly o
 
 *   **The Core Argument:** In the digital era, a country needs to build its own sovereign AI-based geo-economic intelligence in order to ensure economic security and strategically remain independent. Depending on solutions off-the-shelf or foreign solutions is a strategic weakness.
 
-*   **The Proposed Solution:** The brief recommends establishing a **National Geo-Economic Intelligence Centre (NGEIC)**. This would serve as a public-private sandbox, where state-of-the-art AI, including Graph Neural Networks (GNNs), would be used to map and mitigate national economic risks on anonymized commercial data in a “data-never-leaves” privacy-preserving architecture.
-
 > The central thesis is that classic economic defenses are obsolete against AI-driven threats. This brief presents a technically plausible and strategically necessary course toward the building a sovereign analytical capacity of the digital age.
 
 ## Read the Full Brief
 
 The paper offers a thorough analysis of the threat model, the technical architecture for the proposed solution, a robust governance and oversight framework, and a discussion of the main implementation issues.
 
-➡️ **[Read the full Policy Brief here](./The_Algorithmic_Sanction.pdf)**
-
-## About the Author
-
-This is an independent research project by **Vicky Pagarani**, an Economics Honours student at Delhi University specializing in Data and Business Analytics.
+ **[Read the full Policy Brief here](./The_Algorithmic_Sanction.pdf)**
 
 ## Contact & Discussion
 
@@ -53,15 +47,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDeri
 
 ---
 
-## How to Cite This Work
 
-If you find this brief useful in your own research or writing, please cite it as a working paper.
-
-```bibtex
-@misc{Pagarani_AlgorithmicSanction_2025,
-  author       = {Vicky Pagarani},
-  title        = {The Algorithmic Sanction: Countering Artificial Intelligence (AI) Driven Economic Warfare},
-  year         = {2025},
-  note         = {Working Paper},
-  howpublished = {\url{https://github.com/pagar-ani/The-Algorithmic-Sanction}}
-}
